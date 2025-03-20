@@ -443,6 +443,7 @@ a {
 .doctor__item--img {
 	background: #eaf6ff;
 	height: 318px;
+	border-radius: 6px;
 	width: 100%;
 	object-fit: cover;
 }
@@ -450,7 +451,7 @@ a {
 .doctor__item--title {
 	color: #10375c;
 	font-size: 1.6rem;
-	font-weight: 400;
+	font-weight: 500;
 	line-height: 1.75; /* 175% */
 }
 .doctor__item--desc {
